@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 import 'privacy.dart';
 import 'storage.dart';
 
-const String sdkVersion = '0.1.0';
+const String sdkVersion = '0.1.1';
 const int batchMax = 50;
 const int queueMax = 1000;
 

@@ -1,6 +1,6 @@
 name: vitrus
 description: Cookie-free, privacy-first analytics for Flutter and Dart apps. User ids are hashed on the device; no persistent device id, no tracking.
-version: 0.1.0
+version: 0.1.1
 homepage: https://vitrus.dev
 repository: https://github.com/Vitrus-Dev/vitrus-dart
 issue_tracker: https://github.com/Vitrus-Dev/vitrus-dart/issues

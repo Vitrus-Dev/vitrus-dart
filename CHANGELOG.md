@@ -1,3 +1,8 @@
+## 0.1.1
+
+- LICENSE is now the standard Apache-2.0 text, so pub.dev and GitHub detect it.
+- README: install from pub.dev (`flutter pub add vitrus`).
+
 ## 0.1.0
 
 - First release: `screen`, `track`, `identify` (hashed on device), `plan`, `revenue`, `appOpen`, `flush`.

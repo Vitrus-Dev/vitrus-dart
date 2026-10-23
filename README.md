@@ -22,7 +22,7 @@ or in `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  vitrus: ^0.1.0
+  vitrus: ^0.1.1
 ```
 
 ## Flutter setup
