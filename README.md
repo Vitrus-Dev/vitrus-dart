@@ -1,5 +1,8 @@
 # Vitrus for Flutter & Dart
 
+[![pub package](https://img.shields.io/pub/v/vitrus.svg)](https://pub.dev/packages/vitrus)
+[![publisher](https://img.shields.io/pub/publisher/vitrus.svg)](https://pub.dev/packages/vitrus/publisher)
+
 Cookie-free, privacy-first analytics for Flutter and Dart apps — the native SDK for [Vitrus](https://vitrus.dev),
 the open-source analytics where every number opens the query that counted it.
 
