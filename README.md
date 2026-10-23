@@ -11,10 +11,15 @@ the open-source analytics where every number opens the query that counted it.
 
 ## Install
 
+```bash
+flutter pub add vitrus      # or: dart pub add vitrus
+```
+
+or in `pubspec.yaml`:
+
 ```yaml
 dependencies:
-  vitrus:
-    git: https://github.com/Vitrus-Dev/vitrus-dart
+  vitrus: ^0.1.0
 ```
 
 ## Flutter setup
